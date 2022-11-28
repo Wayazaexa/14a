@@ -2,7 +2,7 @@ name, email,repository
 
 michel, michel@learnet.se, michellundell/ticket
 
-mohamud,mohamud.abdi@studerande.movant.se, github.com/Mohamud74/ticket-system
+mohamud,mohamud.abdi@studerande.movant.se, Mohamud74/ticket-system
 ahmed a,
 hussein, hussein.ahmad@learnet.se, HusseinAhmad1/Tickets.cpp
 mohib ali, mohibali.akbari@studerande.movant.se, elevUser/Ticket
@@ -10,7 +10,7 @@ jonathan,
 daniel b, daniel.barbis@learnet.se, Frowsty/ticket-system
 jimmy, jimmy.barr94@gmail.com, JimnyB/Flightexam
 arwen,
-julie anne, julie.cantillep@studerande.movant.se, https://github.com/Julieanna97/4a-files-cpp
+julie anne, julie.cantillep@studerande.movant.se, Julieanna97/4a-files-cpp
 joakim, joakimenglund@protonmail.com, Wayazaexa/CplusplusAssignment
 fisnik,
 anda, andastefania.ghita@gmail.com, AndaGhita/Flights-Tickets
@@ -18,8 +18,8 @@ riza,
 dishad,
 tobias, tobias.hoglin@gmail.com, TobiasHoglin/FlightTicket
 ali,
-sadiiq, sadiiq.kaysa@learnet.se,  https://github.com/Sadiiqk/flight-and-ticket-system
-Syed Kazmi, kazmisag@gmail.com, https://github.com/kazmisag/Ticket.git
+sadiiq, sadiiq.kaysa@learnet.se, Sadiiqk/flight-and-ticket-system
+Syed Kazmi, kazmisag@gmail.com, kazmisag/Ticket.git
 ahmed m,
 nicolas, nicolas.munoz@learnet.se, Nicklnt/tycket_program
 jesper, jesper.rehnfors@studerande.movant.se, Rehnfors/Ticket
