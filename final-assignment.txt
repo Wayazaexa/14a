@@ -1,7 +1,4 @@
 name, email,repository
-
-michel, michel@learnet.se, michellundell/ticket
-
 mohamud,mohamud.abdi@studerande.movant.se, Mohamud74/ticket-system
 ahmed a,
 hussein, hussein.ahmad@learnet.se, HusseinAhmad1/Tickets.cpp
@@ -25,4 +22,3 @@ nicolas, nicolas.munoz@learnet.se, Nicklnt/tycket_program
 jesper, jesper.rehnfors@studerande.movant.se, Rehnfors/Ticket
 kevin, kevin.ronn@studerande.movant.se, kevinr0nn/New 15a Examination
 daniel ö, daniel.orhill@studerande.movant.se, Gorillaism/Ticket
-
