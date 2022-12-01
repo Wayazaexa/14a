@@ -14,7 +14,7 @@ anda, andastefania.ghita@gmail.com, AndaGhita/Flights-Tickets
 riza,
 dishad,
 tobias, tobias.hoglin@gmail.com, TobiasHoglin/FlightTicket
-ali,
+ali,ali.karimi@studerande.movant.se,alikarimi5025/4a-files
 sadiiq, sadiiq.kaysa@learnet.se, Sadiiqk/flight-and-ticket-system
 Syed Kazmi, kazmisag@gmail.com, kazmisag/Ticket
 ahmed m,ahmedmmelli11@gmail.com, MrMelli/beljetter
